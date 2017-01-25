@@ -17,4 +17,8 @@
       Adrian Gonzalez Barbosa
   </author>
 
+  <plugin name="cordova-plugin-whitelist" />
+
+  <allow-navigation href="*" />  
+
 </widget>
